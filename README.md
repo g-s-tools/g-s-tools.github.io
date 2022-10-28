@@ -1,1 +1,2 @@
-# g-s-tools.github.io
+# g-s-tools.github.io => www.schmidchristian.ch
+
